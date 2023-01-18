@@ -1,3 +1,5 @@
 ini text dari branch kuro
 
 tambahan text dari ujang
+
+text ini ditambahkan secara langsung di web github
